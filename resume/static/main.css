@@ -1,0 +1,26 @@
+.summary {
+    background-color: aliceblue;
+    margin-bottom: 30px;
+    
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;    
+    background-color: antiquewhite; 
+}
+
+
+
+footer{
+    position:fixed;
+    bottom:0;
+    left:0;
+   }
+
+   .image {
+    display: flex;
+    justify-content: center;
+    
+   }
